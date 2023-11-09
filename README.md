@@ -18,5 +18,3 @@ https://desafio1-landingpage11.netlify.app
 Link da planilha de registro sheet monkey:
 https://docs.google.com/spreadsheets/d/1UJICchr3pFJj5SrJ_tY4uBFzHpX4kV2qUG6_xlznxTo/edit#gid=0
 
-Link do github:
-https://github.com/rsgrogerio/desafio-landingPage
