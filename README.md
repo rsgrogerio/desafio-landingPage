@@ -12,5 +12,11 @@ Para criação da Landing Page, utilizei HTML, CSS JavaScript e na pre-produçã
 STATUS DO PROJETO:
 O projeto encontra-se na versão 4, e esta em fase de avaliação dos instrutores da escola DNC
 
-Link do site disponibilizado:   https://desafio1-landingpage11.netlify.app
-Link da planilha de registro das informações:   https://docs.google.com/spreadsheets/d/1UJICchr3pFJj5SrJ_tY4uBFzHpX4kV2qUG6_xlznxTo/edit#gid=0
+Link da landing page:
+https://desafio1-landingpage11.netlify.app
+
+Link da planilha de registro sheet monkey:
+https://docs.google.com/spreadsheets/d/1UJICchr3pFJj5SrJ_tY4uBFzHpX4kV2qUG6_xlznxTo/edit#gid=0
+
+Link do github:
+https://github.com/rsgrogerio/desafio-landingPage
